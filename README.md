@@ -1,4 +1,4 @@
-# Node.js + Kafka Example
+# Node.js + Kafka
 
 This repository contains a practical example of using **Apache Kafka** with **Node.js**, demonstrating how to implement a simple **Producer** and **Consumer** setup for messaging and streaming data between services.
 
