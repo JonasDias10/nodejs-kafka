@@ -66,6 +66,10 @@ cd nodejs-kafka
 
 ### 2. Start Project
 
+```bash
+docker-compose up --build
+```
+
 ---
 
 #### **Author: Jonas Dias | [Portfolio](https://jonas-dias.netlify.app/) | Thank You**
