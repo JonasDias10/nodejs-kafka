@@ -69,7 +69,3 @@ cd nodejs-kafka
 ```bash
 docker-compose up --build
 ```
-
----
-
-#### **Author: Jonas Dias | [Portfolio](https://jonas-dias.netlify.app/) | Thank You**
